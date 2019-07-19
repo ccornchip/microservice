@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.example.microservice"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "microservice",
+    "baseName": "s",
+    "packageName": "com.example.microservice",
+    "packageFolder": "com/example/microservice",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTM3MzE3NzBhYTA0ZWRjYmFlMWQyNmU2ZjhlMmYwMTljZDYzMmI4YThmNzVjYmE5MjE0ZmY1OTNkNmJlNDJmZDZkNDc0OGY2MTczNTUwYWFhMWMzMTM4MTY0NDI1Y2RmZDgwYzdjMjMxODZhYjk2OWUwNGNlZGIzNzFjZjQwZDk=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
